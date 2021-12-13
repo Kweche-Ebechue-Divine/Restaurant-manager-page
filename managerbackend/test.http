@@ -1,0 +1,8 @@
+POST http://localhost:4000/app/manager
+Content-type: application/json
+{
+    "fullName": "Joseph",
+    "username":"joey",
+    "email":"joe@gmail.com",
+    "password":"josejosey"
+}
